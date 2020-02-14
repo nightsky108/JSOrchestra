@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+  "name": "JSOrchestra",
+  "version": "0.1.0",
+  "description": "l2code",
+  "author": "Josh and Zack",
+  "icons": { "16": "public/img/JSOIcon.png",
+           "48": "public/img/JSOIcon.png",
+          "128": "public/img/JSOIcon.png" },
+  "content_scripts": [
+      {
+        "matches": ["https://jsfiddle.net/codefuture/oo2sv7sL/"],
+        "js": ["public/js/jquery.js", "public/js/react.js",  "public/js/react-dom.js", "public/js/react-router.js", "dist/jsOrch.js"],
+        "css": ["public/css/style.css"]
+      }
+    ],
+  "web_accessible_resources": [
+       "public/css/JSOSplash.png",
+       "public/css/JSOBG.png",
+       "public/img/Lesson1.png",
+       "public/img/Lesson2.png",
+       "public/img/Lesson3.png"
+    ]
+}
+
