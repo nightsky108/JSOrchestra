@@ -14,5 +14,5 @@ Reactjs and determination
 
 ## Preview
 
-![alt tag](http://tinyimg.io/i/T8PlNkY.JPG)
-![alt tag](http://tinyimg.io/i/jDKOhGU.JPG)
+![alt tag](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/432/085/datas/original.JPG)
+![alt tag](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/432/086/datas/original.JPG)
